@@ -42,6 +42,6 @@ te dejo el aqui el link del Github oficial de [NVM](https://github.com/creationi
 
   ```node app.js```
 
-* Ahora podra visualiar la aplicacion en el puerto 3000:
+* Ahora podra visualiar la aplicacion en el puerto 3000 en tu navegador:
 
   ```http://localhost:3000/```
