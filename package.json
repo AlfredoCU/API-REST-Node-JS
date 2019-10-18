@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_backend",
+  "version": "1.0.0",
+  "description": "API REST con Express y Node JS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoCU/Api-Rest-Nodejs.git"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "proyect"
+  ],
+  "author": "Alfredo Carreón Urbano <alfredo_11_cu@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
